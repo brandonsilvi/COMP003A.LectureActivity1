@@ -9,7 +9,7 @@ namespace COMP003A.LectureActivity1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World im making a change so i can do another commit");
         }
     }
 }
